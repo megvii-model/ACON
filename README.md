@@ -6,7 +6,7 @@
 The official Pytorch implementation is available at [https://github.com/nmaac/acon](https://github.com/nmaac/acon).
 
 ### MegEngine version
-This repository contains the MegEngine implementation of the paper [Activate or Not: Learning Customized Activation, CVPR 2021](https://arxiv.org/pdf/2009.04759.pdf).
+This repository contains the MegEngine implementation of the paper [Activate or Not: Learning Customized Activation](https://arxiv.org/pdf/2009.04759.pdf).
 
 
 ___
